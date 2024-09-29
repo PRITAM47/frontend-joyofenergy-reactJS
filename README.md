@@ -1,4 +1,4 @@
-# Introducing JOI Energy - Initial Commit
+# Introducing JOI Energy
 
 JOI Energy is a new start-up in the energy industry. They provide their customers with smart meters that record their
 energy usage, enabling them to save both money and the environment. The smart meters also record the energy that
